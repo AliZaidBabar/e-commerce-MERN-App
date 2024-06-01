@@ -1,0 +1,98 @@
+.nav-link{
+    color: black;
+    font-size:23px;
+}
+
+.navbar {
+    background: transparent !important;
+  }
+  
+  .bg-white-scrolled {
+    background: white !important;
+  }
+
+.landingsection{
+    background-image: url('./images/hero.jpg');
+    background-size:cover;
+    background-position:center;
+
+  
+
+}
+
+.custombtn{
+    padding: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: black;
+    color: white !important;
+}
+
+.custombtn:hover{
+    padding: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: white;
+    color: black !important;
+}
+
+
+
+/* .link{
+    color: white;
+}
+.link:hover{
+    color: black !important;
+} */
+
+.motherdayspecial{
+    background-image: url('./images/specialsimg.jpg');
+    background-size: cover;
+}
+
+.controller{
+    background-color: black;
+    padding: 25px;
+}
+
+.moist{
+    background-color: #FEF1C5;
+}
+
+.lippy {
+    position: relative;
+    width: 100%; /* Set the width of the container */
+    padding-top: 177.77%; /* Set the height based on the aspect ratio (16/9 * 100%) */
+  }
+  
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%; /* Ensure the video fills the container */
+  }
+
+  .bridalcard{
+    border: none !important;
+  }
+
+  .chatwithartist{
+    background-color: black;
+  }
+
+  .footer{
+    background-color: #222;
+    color: white;
+  }
+  
+  .btn-lol{
+    background-color: none;
+    color: white;
+    border-color: white;
+  }
+
+  .cart{
+    height: 800px;
+  }
+
